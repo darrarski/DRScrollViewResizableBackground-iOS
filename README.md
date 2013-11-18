@@ -7,4 +7,4 @@ UIScrollView category that allows setting backgorund using resizable image.
 
 Add this line to your project's Podfile:
 
-	pod "DRScrollViewResizableBackground", :git => "https://github.com/darrarski/DRScrollViewResizableBackground-iOS.git"
+	pod "DRScrollViewResizableBackground", :git => "https://bitbucket.org/darrarski/drscrollviewresizablebackground-ios.git"
