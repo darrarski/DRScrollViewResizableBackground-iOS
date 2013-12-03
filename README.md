@@ -1,5 +1,5 @@
-DRScrollViewResizableBackground iOS Library
-===========================================
+DRScrollViewResizableBackground for iOS
+=======================================
 
 UIScrollView category that allows setting backgorund using resizable image.
 
